@@ -1,0 +1,13 @@
+# Inhaltsverzeichnis
+- Laravel Allgemein (Erik)
+- MVC Muster
+	- Model (Marc)
+	- View (Frank)
+	- Controller (Erik)
+- MVC Beispiel (Frank)
+- Datenbank 
+- JSON (Marc)
+- REST-API (Marc)
+	- Verwendung in Java (Erik)
+	- Verwendung in Angular (Frank)
+- Deployment in Forge (Frank)
