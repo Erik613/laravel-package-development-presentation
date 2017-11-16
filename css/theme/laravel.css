@@ -407,7 +407,7 @@ body {
   border: 0;
   box-shadow: none;
   margin-bottom: 50px;
-  max-width: 100px; }
+  max-width: 100%; }
 
 code::-webkit-scrollbar {
   background-color: #434956;
